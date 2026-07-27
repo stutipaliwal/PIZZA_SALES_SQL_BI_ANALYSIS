@@ -95,4 +95,4 @@ ORDER BY Total_Quantity DESC;
 ├── pizza_sales.csv               # Raw transactional dataset (Source)
 ├── pizza_sales_queries.sql       # SQL Data Extraction & Transformation Script
 ├── pizza_sales_dashboard.pbix    # Power BI Dashboard File
-└── README.md                     # Project Technical Documentation
+└── README.md                     # Project Documentation
